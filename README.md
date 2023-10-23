@@ -10,7 +10,7 @@ It's like `php artisan route:list` for your browser. Supports sorting and filter
 
 Install via [Composer](https://getcomposer.org/):
 ```
-composer require sbine/route-viewer
+composer require tailoredit/route-viewer
 ```
 
 Register the tool in `app/Providers/NovaServiceProvider`:
